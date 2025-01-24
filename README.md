@@ -91,6 +91,6 @@
 
 ## :rocket: Favorite Tech
 
-| ![Bash](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg) | ![Python](https://github.com/MacroPower/MacroPower/raw/master/img/python-original.svg) | ![Docker](https://github.com/MacroPower/MacroPower/raw/master/img/docker-original.svg) | ![Kubernetes](https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg) | ![Terraform](https://images.seeklogo.com/logo-png/34/3/terraform-logo-png_seeklogo-340983.png) | ![Prometheus](https://prometheus.io/assets/prometheus_logo.png) | ![Grafana](https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg) | ![AWS](https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg) |
+| ![Bash](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg) | ![Python](.img/python-original.svg) | ![Docker](.img/docker-original.svg) | ![Kubernetes](.img/kubernetes-icon-color.svg) | ![Terraform](.img/terraform-svgrepo-com.svg) | ![Prometheus](https://prometheus.io/assets/prometheus_logo.png) | ![Grafana](.img/grafana_icon.svg) | ![AWS](https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg) |
 |------------------|------------------|------------------|------------------|------------------|------------------|------------------|------------------|
 | 🐚 Bash          | 🐍 Python        | 🐳 Docker         | ☸️ Kubernetes     | 📜 Terraform      | 📊 Prometheus     | 📈 Grafana        | ☁️ AWS           |
