@@ -1,6 +1,6 @@
 # :wave: Hello there! I'm Oleksandr Skibchyk
 
-## 🚀 DevOps Engineer with experience in Linux, Kubernetes, CI/CD, and Cloud services (AWS, GCP). 🌟 Strong skills in automation, Infrastructure as Code (IaC), and monitoring. 💻
+## 🚀 Certified DevOps Engineer with expertise in Cloud and CI/CD, with experience in Linux, Kubernetes, CI/CD, and Cloud services (AWS, GCP). 🌟 Strong skills in automation, Infrastructure as Code (IaC), and monitoring. 💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=a3888s)
 
