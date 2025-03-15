@@ -82,6 +82,14 @@
 - [Official Zabbix Docker Files](https://github.com/zabbix/zabbix-docker)
 - [Zabbix Plugin for Grafana](https://github.com/grafana/grafana-zabbix)
 
+### 🖥️ **Virtualization Platforms - Proxmox, Hyper-V, VMware**
+
+- Installed and configured virtualization platforms, including Proxmox, Hyper-V, and VMware.
+- Set up and managed virtual machines for various environments.
+- Configured networking and storage for optimal performance.
+- Implemented automated backup strategies for VM snapshots and recovery plans.
+- Optimized resource allocation to improve virtual machine performance and efficiency.
+
 ---
 
 ## :star: Certifications
