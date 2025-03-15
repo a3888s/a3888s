@@ -66,6 +66,24 @@
 
 ---
 
+## :wrench: Hands-on Experience with Tools
+
+### 🖥️ **Zabbix - Docker Compose Monitoring Solution**
+
+**Project: Docker Compose - Zabbix NGINX PostgreSQL + Grafana**
+
+- Integrated Zabbix for collecting system metrics and visualized them using Grafana.
+- Configured and deployed PostgreSQL, Zabbix Server, Zabbix Frontend (NGINX), Zabbix Agent, and Grafana.
+- Implemented a structured `.env` configuration to facilitate seamless deployment.
+- Automated backup and restoration of the database using custom scripts.
+- Optimized performance tuning and data source configuration in Grafana.
+
+🔗 **Resources:**
+- [Official Zabbix Docker Files](https://github.com/zabbix/zabbix-docker)
+- [Zabbix Plugin for Grafana](https://github.com/grafana/grafana-zabbix)
+
+---
+
 ## :star: Certifications
 
 - **📜 DevOps Course** @ *DAN.IT Education* (Issued January 2025)  
