@@ -90,6 +90,28 @@
 - Implemented automated backup strategies for VM snapshots and recovery plans.
 - Optimized resource allocation to improve virtual machine performance and efficiency.
 
+### 🖥️ **Linux & Windows Server Administration**
+
+- Installed, configured, and maintained Linux and Windows servers.
+- Performed security hardening and implemented patch management.
+- Set up automated backup solutions and recovery strategies.
+- Monitored system performance and optimized resource usage.
+- Managed user permissions, Active Directory (for Windows), and network policies.
+
+### 🖥️ **PG Back Web - PostgreSQL Backup Management**
+**Project: Deployment and Configuration in Docker Environment**
+
+- Deployed and configured **PG Back Web** in a Docker environment for PostgreSQL database backup management.
+- Integrated **PostgreSQL**, ensuring stable connectivity and troubleshooting authentication and network issues.
+- Configured **MinIO/S3 storage** for remote backups, ensuring secure and efficient storage management.
+- Set up **Traefik** reverse proxy for secure access with SSL/TLS certificates.
+- Automated deployment using **Docker Compose** and **Ansible**, making the setup easily reproducible.
+- Verified successful **database migrations** and tested recovery scenarios to ensure data integrity.
+
+🔗 **Key Technologies:**  
+Docker, PostgreSQL, MinIO/S3, Traefik, Ansible, Backup & Restore Automation
+
+
 ---
 
 ## :star: Certifications
