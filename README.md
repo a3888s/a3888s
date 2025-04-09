@@ -45,14 +45,6 @@
 - **🛡️ Cybersecurity Specialist** @ *Armed Forces of Ukraine* (October 2019 - April 2021)  
   - 🕵️ Monitored and investigated security incidents.  
   - 🔒 Developed correlation rules for detecting security threats and vulnerabilities.
- 
-- **🗂️ LLDAP Administrator (Self-Hosted)** (2024)
-  - 🐳 Deployed and configured LLDAP and PostgreSQL via Docker Compose.
-  - 🔐 Integrated JWT authentication and secured access via Traefik reverse proxy with SSL/TLS.
-  - 📥 Created and imported 5000 users using GraphQL API automation with Bash (`jq`) and Python scripting.
-  - ⚙️ Designed custom user attributes schema (`ats-2`, `mats`, `any_number`) following GraphQL requirements.
-  - 🔄 Implemented password setup workflow via `lldap_set_password` CLI.
-  - 📊 Verified connectivity, schema consistency, and tested authentication and backup integrity.
 
 ---
 
@@ -118,6 +110,21 @@
 
 🔗 **Key Technologies:**  
 Docker, PostgreSQL, MinIO/S3, Traefik, Ansible, Backup & Restore Automation
+
+### 🖥️ **LLDAP - Lightweight LDAP Server in Docker + GraphQL Automation**
+
+**Project: Mass User Provisioning with Custom Attributes**
+
+- Deployed and configured LLDAP with PostgreSQL backend in a Dockerized environment using `docker-compose`.
+- Set up custom environment variables and secure connections with healthchecks and volume persistence.
+- Implemented GraphQL API queries to automate creation of **5000 users** with custom attributes such as `ats-2`, `mats`, and `any_number`.
+- Generated bulk user payloads using `jq` and automated requests with Python scripts using JWT token authorization.
+- Used `lldap_set_password` CLI tool to securely assign passwords post-creation.
+- Ensured high performance and successful integration between PostgreSQL, LLDAP, and management APIs.
+
+🔗 **Key Technologies:**  
+Docker, LLDAP, GraphQL, PostgreSQL, Bash, jq, Python, JWT, Docker Compose
+
 
 
 ---
