@@ -18,7 +18,7 @@
 
 ## :gear: Work Experience
 
-<!-- - **📞 IT Specialist (VoIP, PBX)** @ *CallsApp Ukraine* (April 2024 - November 2024)  
+  - **📞 IT Specialist (VoIP, PBX)** @ *CallsApp Ukraine* (April 2024 - November 2024)  
   - 🛠️ Configured and administered VoIP solutions, including Asterisk, FreePBX, and GSM gateways.  
   - 🔧 Deployed and maintained virtual PBX systems integrated with networking equipment.  
   - 📞 Managed and optimized IP telephony and related devices.  
@@ -26,7 +26,7 @@
   - 🤝 Provided consultations to business clients on service functionality and operations.  
   - 🔍 Tested, implemented, and supported new technological solutions in IP telephony.  
   - 📊 Analyzed technical challenges and optimized system performance for stability.  
-  - 📝 Created technical documentation and conducted client training.   -->
+  - 📝 Created technical documentation and conducted client training.
 
 - **🖥️ DevOps Engineer** @ *spaceof.supply* (May 2023 - May 2024)  
   - ⚙️ Automated deployment processes using Docker and GitLab CI/CD.  
@@ -45,6 +45,14 @@
 - **🛡️ Cybersecurity Specialist** @ *Armed Forces of Ukraine* (October 2019 - April 2021)  
   - 🕵️ Monitored and investigated security incidents.  
   - 🔒 Developed correlation rules for detecting security threats and vulnerabilities.
+ 
+- **🗂️ LLDAP Administrator (Self-Hosted)** (2024)
+  - 🐳 Deployed and configured LLDAP and PostgreSQL via Docker Compose.
+  - 🔐 Integrated JWT authentication and secured access via Traefik reverse proxy with SSL/TLS.
+  - 📥 Created and imported 5000 users using GraphQL API automation with Bash (`jq`) and Python scripting.
+  - ⚙️ Designed custom user attributes schema (`ats-2`, `mats`, `any_number`) following GraphQL requirements.
+  - 🔄 Implemented password setup workflow via `lldap_set_password` CLI.
+  - 📊 Verified connectivity, schema consistency, and tested authentication and backup integrity.
 
 ---
 
